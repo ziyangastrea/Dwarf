@@ -18,7 +18,7 @@ nightmare
   nightmare
   .goto('http://www.sinsangmarket.kr/v2/goodsDetail?gid=15451250')
   .type('#userid', 'rex721209')
-  .type('#userpassword', 'movie1209')
+  .type('#userpassword', '')
   .click('.loginButton')
   .wait('.mainSwiper')
   .goto('http://www.sinsangmarket.kr/v2/goodsDetail?gid=15451250')
