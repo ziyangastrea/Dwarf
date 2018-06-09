@@ -1,0 +1,25 @@
+{
+  "name": "dwarf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nightmare": "^3.0.1",
+    "request": "^2.87.0",
+    "sha.js": "^2.4.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyangastrea/Dwarf.git"
+  },
+  "author": "ziyangastrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziyangastrea/Dwarf/issues"
+  },
+  "homepage": "https://github.com/ziyangastrea/Dwarf#readme"
+}
