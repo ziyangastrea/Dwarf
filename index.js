@@ -7,7 +7,7 @@ var request = request.defaults({jar: true})
 
 var postData = {
     userid: "rex721209",
-    passwd: shajs('sha256').update('movie1209').digest('hex'),
+    passwd: shajs('sha256').update('haha').digest('hex'),
     autologin : "y",
     is_ajax: 1 
 }
